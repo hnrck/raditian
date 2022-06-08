@@ -21,3 +21,13 @@ fields:
     schema:
       format: markdown
   label: Description
+- name: image
+  type: include
+  config: {}
+  template: image
+  label: Image
+- name: imageMobile
+  type: include
+  config: {}
+  template: image
+  label: Image Mobile
