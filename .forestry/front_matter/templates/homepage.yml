@@ -7,3 +7,8 @@ fields:
   config:
     required: false
   label: title
+- name: showcase
+  type: include
+  config: {}
+  template: showcase
+  label: Showcase
