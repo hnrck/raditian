@@ -9,8 +9,8 @@ showcase:
   description: ''
   image:
     alt: Showcase keyboard and mouse image
-    x: uploads/henrick-aircraft.HEIC
-    _2x: uploads/henrick-aircraft.HEIC
+    x: uploads/henrick-aircraft-s.png
+    _2x: uploads/henrick-aircraft-l.png
   imageMobile:
     alt: Showcase keyboard and mouse image
     x: img/showcase/showcase-mobile.jpg
