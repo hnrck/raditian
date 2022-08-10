@@ -10,7 +10,7 @@ showcase:
   image:
     alt: Showcase keyboard and mouse image
     x: uploads/henrick-aircraft-s.png
-    _2x: uploads/henrick-aircraft-l.png
+    _2x: uploads/henrick-aircraft-s.png
   imageMobile:
     alt: Showcase keyboard and mouse image
     x: img/showcase/showcase-mobile.jpg
@@ -35,7 +35,7 @@ about:
     URL: https://www.linkedin.com/
   image:
     x: img/who-am-i/user-picture.png
-    _2x: img/who-am-i/user-picture@2x.png
+    _2x: uploads/tls.jpeg
 education:
   enable: true
   title: Education
